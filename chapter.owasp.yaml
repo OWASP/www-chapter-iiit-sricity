@@ -1,0 +1,26 @@
+leaders:
+  - name: Ayush Bajirao
+    email: ayush.bajirao@owasp.org
+  - name: Aman Gupta
+    email: aman.gupta@owasp.org
+    github: aman566
+  - name: Piyush Pranav
+    email: piyush.pranav@owasp.org
+    github: Dr0verrid3
+location:
+  country: India
+  country_code: IN
+  region: Asia
+  latitude: 31.5225078
+  longitude: 74.9822688
+meetup_group: OWASP-IIIT-SRICITY
+name: OWASP IIIT Sri City - Student Chapter
+repositories:
+  - name: www-chapter-iiit-sricity
+    url: https://github.com/OWASP/www-chapter-iiit-sricity
+    description: OWASP Foundation Web Repository
+tags:
+  - iiit
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-iiit-sricity
